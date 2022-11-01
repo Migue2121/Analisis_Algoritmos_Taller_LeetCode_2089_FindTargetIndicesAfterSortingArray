@@ -38,7 +38,7 @@ Esta aplicación que se encuentra en el proyecto "LeetCode2089" es la unión de 
       https://github.com/Migue2121/Analisis_Algoritmos_Taller_LeetCode_2089_FindTargetIndicesAfterSortingArray/tree/main/LeetCode2089
 
 
-# Ejercutar por CMD o consola:space_invader:
+# Ejecutar por CMD o consola:space_invader:
 
 
 :round_pushpin:Abrir CMD
