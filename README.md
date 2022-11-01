@@ -60,4 +60,4 @@ Esta aplicación que se encuentra en el proyecto "LeetCode2089" es la unión de 
             
   :computer:  Para más informacón sobre ejecutar en consola y funcionamiento de la aplicación    
    
-            https://docs.google.com/document/d/1IzzUTiW1uiERi6CtDTWVd5tJOskqKx1AluhQkESxNm0/edit?usp=sharing
+          https://docs.google.com/document/d/1IzzUTiW1uiERi6CtDTWVd5tJOskqKx1AluhQkESxNm0/edit?usp=sharing
